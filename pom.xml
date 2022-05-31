@@ -99,14 +99,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.139.220:9980/mithuntechnologies/repository/facebook-releases/</url>
+	      <name>Facebook Releases Nexus Repository</name>
+	      <url>http://13.126.110.201:8081/repository/fb-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.109.139.220:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>Facebook Snapshot Nexus Repository </name>
+	      <url>http://13.126.110.201:8081/repository/fb-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

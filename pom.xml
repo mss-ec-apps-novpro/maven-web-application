@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://43.204.140.244:9000/</sonar.host.url>
+		<sonar.host.url>http://13.126.161.211:9000/</sonar.host.url>
                 <!-- <sonar.login>1040dad8f4649246531d17f42cd58ca172aecde3</sonar.login> -->
 		<sonar.login>23cb6c9c0c347b6955954ee02d56dbc32e2a8f8e</sonar.login>
 		
@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Facebook Releases Nexus Repository</name>
-	      <url>http://52.66.178.131:8081/repository/fb-release/</url>
+	      <url>http://43.204.144.226:8081/repository/fb-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Facebook Snapshot Nexus Repository </name>
-	      <url>http://52.66.178.131:8081/repository/fb-snapshot/</url>
+	      <url>http://43.204.144.226:8081/repository/fb-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
